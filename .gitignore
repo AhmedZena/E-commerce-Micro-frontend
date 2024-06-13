@@ -1,0 +1,8 @@
+cart/node_modules
+cart/dist
+
+container/node_modules
+container/dist
+
+products/node_modules
+products/dist
