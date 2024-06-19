@@ -80,18 +80,23 @@ This is a simple microfront web application that includes a container, cart, and
 e-commerce-micro-frontend/
 ├── container/
 │   ├── src/
+│   │   └── index.js
 │   ├── webpack.config.js
 │   └── package.json
 ├── cart/
 │   ├── src/
+│   │   └── index.js
 │   ├── webpack.config.js
 │   └── package.json
 ├── products/
 │   ├── src/
+│   │   └── index.js
 │   ├── webpack.config.js
 │   └── package.json
 ├── .gitignore
+├── package.json
 └── README.md
+
 
 ## Contributing
 
@@ -100,3 +105,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## Author
 
 - **Ahmed Zena** - [AhmedZena](https://www.github.com/AhmedZena)
+
